@@ -1,6 +1,5 @@
 #!/bin/bash
-FILE="main.c"
-gcc -E "$CFILE" -o output.c
+gcc -E $CFILE -o c
 
 
 
